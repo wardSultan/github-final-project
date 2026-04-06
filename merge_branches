@@ -1,0 +1,9 @@
+PS C:\Users\Ward Sultan\Desktop\github-final-project> git checkout main
+Switched to branch 'main'
+Your branch is behind 'origin/main' by 2 commits, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+PS C:\Users\Ward Sultan\Desktop\github-final-project> git merge bug-fix-typo
+Updating 7277a4f..a78eff8
+Fast-forward
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
